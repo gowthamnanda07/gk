@@ -19,7 +19,6 @@
 
 I'm a passionate **Software Developer Aspirant** who loves building meaningful digital experiences. I'm on a mission to craft clean, efficient code that solves real-world problems. Currently diving deep into full-stack development and sharpening my DSA skills.
 
-- 🎥 I create content on **YouTube**, **Medium**, and **Instagram** — sharing what I learn along the way
 - 🌱 Currently exploring **Django** and backend development
 - 🚀 I believe in learning in public and growing together with the dev community
 - 💡 Fun fact: I can debug code faster than I can decide what to eat for lunch 😄
@@ -80,12 +79,6 @@ I'm a passionate **Software Developer Aspirant** who loves building meaningful d
   </a>
   <a href="https://www.instagram.com/i_am_gowtham18/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="[YOUR_MEDIUM_URL]">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="[YOUR_YOUTUBE_URL]">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
